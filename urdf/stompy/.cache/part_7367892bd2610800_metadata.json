@@ -1,0 +1,215 @@
+{
+  "jsonType": "metadata-part",
+  "isMesh": false,
+  "partId": "JHD",
+  "partIdentity": "de1a5def4052f0f4016b17de",
+  "isFlattenedBody": false,
+  "partType": "solid",
+  "meshState": 0,
+  "properties": [
+    {
+      "name": "Appearance",
+      "value": {
+        "isGenerated": false,
+        "color": {
+          "red": 167,
+          "green": 149,
+          "blue": 210
+        },
+        "opacity": 255
+      }
+    },
+    {
+      "name": "Name",
+      "value": "Battery"
+    },
+    {
+      "name": "Description",
+      "value": null
+    },
+    {
+      "name": "Category",
+      "value": [
+        {
+          "memberCategoryIds": [
+            "5877a03ebe4c21163b49dce2"
+          ],
+          "memberCategories": [
+            {
+              "defaultObjectType": 2,
+              "description": "Category created by upgrade",
+              "ownerType": 2,
+              "ownerId": "556f3109e4b00b3fee9a3f4a",
+              "publishState": 1,
+              "objectTypes": [
+                2
+              ],
+              "id": "5877a03ebe4c21163b49dce2",
+              "name": "Onshape Part",
+              "href": null
+            }
+          ],
+          "defaultObjectType": 2,
+          "description": "Default category for object type Part",
+          "ownerType": 1,
+          "ownerId": "65a33ca766b95a21beacf364",
+          "publishState": 1,
+          "objectTypes": [
+            2
+          ],
+          "id": "65a33ca866b95a21beacf3b3",
+          "name": "Part",
+          "href": null
+        }
+      ]
+    },
+    {
+      "name": "Part number",
+      "value": null
+    },
+    {
+      "name": "Revision",
+      "value": null
+    },
+    {
+      "name": "State",
+      "value": "0"
+    },
+    {
+      "name": "Vendor",
+      "value": null
+    },
+    {
+      "name": "Project",
+      "value": null
+    },
+    {
+      "name": "Product line",
+      "value": null
+    },
+    {
+      "name": "Material",
+      "value": {
+        "libraryName": "KScale Materials",
+        "id": "k8VBpsIdcXSPIGej",
+        "properties": [
+          {
+            "category": "Physical",
+            "type": "REAL",
+            "name": "COMPRESSIVE_YIELD_STRENGTH",
+            "value": "66800000",
+            "displayName": "Compressive Yield Strength",
+            "units": "Pa",
+            "description": "Compressive yield strength"
+          },
+          {
+            "category": "Physical",
+            "type": "REAL",
+            "name": "YOUNGS_MODULUS",
+            "value": "2950000000",
+            "displayName": "Young's Modulus",
+            "units": "Pa",
+            "description": "Young's modulus"
+          },
+          {
+            "category": "Physical",
+            "type": "REAL",
+            "name": "TENSILE_YIELD_STRENGTH",
+            "value": "71700000",
+            "displayName": "Tensile Yield Strength",
+            "units": "Pa",
+            "description": "Tensile yield strength"
+          },
+          {
+            "category": "Physical",
+            "type": "REAL",
+            "name": "DENS",
+            "value": "958.918702245",
+            "displayName": "Density",
+            "units": "kg/m^3",
+            "description": "Density"
+          },
+          {
+            "category": "Physical",
+            "type": "REAL",
+            "name": "ULTIMATE_COMPRESSIVE_STRENGTH",
+            "value": "0",
+            "displayName": "Ultimate Compressive Strength",
+            "units": "Pa",
+            "description": "Ultimate compressive strength"
+          },
+          {
+            "category": "Physical",
+            "type": "REAL",
+            "name": "POISSONS_RATIO",
+            "value": "0.39",
+            "displayName": "Poisson's Ratio",
+            "units": "",
+            "description": "Poisson's ratio"
+          },
+          {
+            "category": "Physical",
+            "type": "REAL",
+            "name": "ULTIMATE_TENSILE_STRENGTH",
+            "value": "75200000",
+            "displayName": "Ultimate Tensile Strength",
+            "units": "Pa",
+            "description": "Ultimate tensile strength"
+          }
+        ],
+        "displayName": "Battery",
+        "libraryReference": {
+          "versionId": "acae7e25659cd1db88cc9709",
+          "elementId": "cc4629a0098232051e7d5d8e",
+          "documentId": "d6fbcb292922ae0429e1f65b",
+          "elementMicroversionId": "acdcfd2e4bcc5828abf451b9"
+        }
+      }
+    },
+    {
+      "name": "Title 1",
+      "value": null
+    },
+    {
+      "name": "Title 2",
+      "value": null
+    },
+    {
+      "name": "Title 3",
+      "value": null
+    },
+    {
+      "name": "Not revision managed",
+      "value": false
+    },
+    {
+      "name": "Exclude from BOM",
+      "value": false
+    },
+    {
+      "name": "Unit of measure",
+      "value": "Each"
+    },
+    {
+      "name": "Mass",
+      "value": {
+        "formattedValue": "3.493 kg",
+        "computed": 3.492658131642955,
+        "useOverride": false
+      }
+    },
+    {
+      "name": "Center of mass",
+      "value": null
+    },
+    {
+      "name": "Inertia",
+      "value": null
+    },
+    {
+      "name": "Tessellation quality",
+      "value": "0"
+    }
+  ],
+  "href": "https://cad.onshape.com/api/metadata/d/aa3b46c3f81235e1ab10987d/m/c296507e8a9b10c23c10da8c/e/1c2c950857a70c09731811a9/p/JHD?configuration=default"
+}

@@ -1,0 +1,211 @@
+{
+  "jsonType": "metadata-part",
+  "isMesh": false,
+  "partId": "JFL",
+  "partIdentity": "9a97ccca25bb65aa5acb44e9",
+  "isFlattenedBody": false,
+  "partType": "solid",
+  "meshState": 0,
+  "properties": [
+    {
+      "name": "Appearance",
+      "value": {
+        "isGenerated": false,
+        "color": {
+          "red": 129,
+          "green": 136,
+          "blue": 140
+        },
+        "opacity": 255
+      }
+    },
+    {
+      "name": "Name",
+      "value": "XPT2046_Touch"
+    },
+    {
+      "name": "Description",
+      "value": null
+    },
+    {
+      "name": "Category",
+      "value": [
+        {
+          "memberCategoryIds": [
+            "5877a03ebe4c21163b49dce2"
+          ],
+          "memberCategories": [
+            {
+              "defaultObjectType": 2,
+              "description": "Category created by upgrade",
+              "ownerType": 2,
+              "ownerId": "556f3109e4b00b3fee9a3f4a",
+              "publishState": 1,
+              "objectTypes": [
+                2
+              ],
+              "id": "5877a03ebe4c21163b49dce2",
+              "name": "Onshape Part",
+              "href": null
+            }
+          ],
+          "defaultObjectType": 2,
+          "description": "Default category for object type Part",
+          "ownerType": 1,
+          "ownerId": "65a33ca766b95a21beacf364",
+          "publishState": 1,
+          "objectTypes": [
+            2
+          ],
+          "id": "65a33ca866b95a21beacf3b3",
+          "name": "Part",
+          "href": null
+        }
+      ]
+    },
+    {
+      "name": "Part number",
+      "value": null
+    },
+    {
+      "name": "Revision",
+      "value": null
+    },
+    {
+      "name": "State",
+      "value": "0"
+    },
+    {
+      "name": "Vendor",
+      "value": null
+    },
+    {
+      "name": "Project",
+      "value": null
+    },
+    {
+      "name": "Product line",
+      "value": null
+    },
+    {
+      "name": "Material",
+      "value": {
+        "libraryName": "Onshape Material Library",
+        "id": "Aluminum - 6061",
+        "properties": [
+          {
+            "category": "Physical",
+            "type": "REAL",
+            "name": "COMPRESSIVE_YIELD_STRENGTH",
+            "value": "0",
+            "displayName": "Compressive Yield Strength",
+            "units": "Pa",
+            "description": "Compressive Yield Strength"
+          },
+          {
+            "category": "Physical",
+            "type": "REAL",
+            "name": "YOUNGS_MODULUS",
+            "value": "68900000000",
+            "displayName": "Young's Modulus",
+            "units": "Pa",
+            "description": "Young's Modulus"
+          },
+          {
+            "category": "Physical",
+            "type": "REAL",
+            "name": "TENSILE_YIELD_STRENGTH",
+            "value": "241000000",
+            "displayName": "Tensile Yield Strength",
+            "units": "Pa",
+            "description": "Tensile Yield Strength"
+          },
+          {
+            "category": "Physical",
+            "type": "REAL",
+            "name": "DENS",
+            "value": "2720",
+            "displayName": "Density",
+            "units": "kg/m^3",
+            "description": "Density"
+          },
+          {
+            "category": "Physical",
+            "type": "REAL",
+            "name": "ULTIMATE_COMPRESSIVE_STRENGTH",
+            "value": "0",
+            "displayName": "Ultimate Compressive Strength",
+            "units": "Pa",
+            "description": "Ultimate Compressive Strength"
+          },
+          {
+            "category": "Physical",
+            "type": "REAL",
+            "name": "POISSONS_RATIO",
+            "value": "0.35",
+            "displayName": "Poisson's Ratio",
+            "units": "",
+            "description": "Poisson's Ratio"
+          },
+          {
+            "category": "Physical",
+            "type": "REAL",
+            "name": "ULTIMATE_TENSILE_STRENGTH",
+            "value": "290000000",
+            "displayName": "Ultimate Tensile Strength",
+            "units": "Pa",
+            "description": "Ultimate Tensile Strength"
+          }
+        ],
+        "displayName": "Aluminum - 6061",
+        "libraryReference": {
+          "versionId": "00551e3bfba06025872715c0",
+          "elementId": "6bbab304a1f64e7d640a2d7d",
+          "documentId": "2718281828459eacfeeda11f",
+          "elementMicroversionId": "5c9010d279aaf0b434afbc4d"
+        }
+      }
+    },
+    {
+      "name": "Title 1",
+      "value": null
+    },
+    {
+      "name": "Title 2",
+      "value": null
+    },
+    {
+      "name": "Title 3",
+      "value": null
+    },
+    {
+      "name": "Not revision managed",
+      "value": false
+    },
+    {
+      "name": "Exclude from BOM",
+      "value": false
+    },
+    {
+      "name": "Unit of measure",
+      "value": "Each"
+    },
+    {
+      "name": "Mass",
+      "value": null
+    },
+    {
+      "name": "Center of mass",
+      "value": null
+    },
+    {
+      "name": "Inertia",
+      "value": null
+    },
+    {
+      "name": "Tessellation quality",
+      "value": "0"
+    }
+  ],
+  "href": "https://cad.onshape.com/api/metadata/d/384397c10e4e99b94e0ad28d/m/454b97f3e3cbfbda543aa12e/e/3d3d74a1767cfb742c044dc8/p/JFL?configuration=default"
+}

@@ -1,0 +1,215 @@
+{
+  "jsonType": "metadata-part",
+  "isMesh": false,
+  "partId": "JfD",
+  "partIdentity": "7483a5c1ef87c52cde07eaa2",
+  "isFlattenedBody": false,
+  "partType": "solid",
+  "meshState": 0,
+  "properties": [
+    {
+      "name": "Appearance",
+      "value": {
+        "isGenerated": true,
+        "color": {
+          "red": 250,
+          "green": 182,
+          "blue": 1
+        },
+        "opacity": 255
+      }
+    },
+    {
+      "name": "Name",
+      "value": "PCB"
+    },
+    {
+      "name": "Description",
+      "value": null
+    },
+    {
+      "name": "Category",
+      "value": [
+        {
+          "memberCategoryIds": [
+            "5877a03ebe4c21163b49dce2"
+          ],
+          "memberCategories": [
+            {
+              "defaultObjectType": 2,
+              "description": "Category created by upgrade",
+              "ownerType": 2,
+              "ownerId": "556f3109e4b00b3fee9a3f4a",
+              "publishState": 1,
+              "objectTypes": [
+                2
+              ],
+              "id": "5877a03ebe4c21163b49dce2",
+              "name": "Onshape Part",
+              "href": null
+            }
+          ],
+          "defaultObjectType": 2,
+          "description": "Default category for object type Part",
+          "ownerType": 1,
+          "ownerId": "65a33ca766b95a21beacf364",
+          "publishState": 1,
+          "objectTypes": [
+            2
+          ],
+          "id": "65a33ca866b95a21beacf3b3",
+          "name": "Part",
+          "href": null
+        }
+      ]
+    },
+    {
+      "name": "Part number",
+      "value": null
+    },
+    {
+      "name": "Revision",
+      "value": null
+    },
+    {
+      "name": "State",
+      "value": "0"
+    },
+    {
+      "name": "Vendor",
+      "value": null
+    },
+    {
+      "name": "Project",
+      "value": null
+    },
+    {
+      "name": "Product line",
+      "value": null
+    },
+    {
+      "name": "Material",
+      "value": {
+        "libraryName": "Onshape Material Library",
+        "id": "ABS",
+        "properties": [
+          {
+            "type": "REAL",
+            "category": "Physical",
+            "name": "COMPRESSIVE_YIELD_STRENGTH",
+            "value": "0",
+            "displayName": "Compressive Yield Strength",
+            "units": "Pa",
+            "description": "Compressive Yield Strength"
+          },
+          {
+            "type": "REAL",
+            "category": "Physical",
+            "name": "YOUNGS_MODULUS",
+            "value": "2310000000",
+            "displayName": "Young's Modulus",
+            "units": "Pa",
+            "description": "Young's Modulus"
+          },
+          {
+            "type": "REAL",
+            "category": "Physical",
+            "name": "TENSILE_YIELD_STRENGTH",
+            "value": "44800000",
+            "displayName": "Tensile Yield Strength",
+            "units": "Pa",
+            "description": "Tensile Yield Strength"
+          },
+          {
+            "type": "REAL",
+            "category": "Physical",
+            "name": "DENS",
+            "value": "1052",
+            "displayName": "Density",
+            "units": "kg/m^3",
+            "description": "Density"
+          },
+          {
+            "type": "REAL",
+            "category": "Physical",
+            "name": "ULTIMATE_COMPRESSIVE_STRENGTH",
+            "value": "0",
+            "displayName": "Ultimate Compressive Strength",
+            "units": "Pa",
+            "description": "Ultimate Compressive Strength"
+          },
+          {
+            "type": "REAL",
+            "category": "Physical",
+            "name": "POISSONS_RATIO",
+            "value": "0.364",
+            "displayName": "Poisson's Ratio",
+            "units": "",
+            "description": "Poisson's Ratio"
+          },
+          {
+            "type": "REAL",
+            "category": "Physical",
+            "name": "ULTIMATE_TENSILE_STRENGTH",
+            "value": "40400000",
+            "displayName": "Ultimate Tensile Strength",
+            "units": "Pa",
+            "description": "Ultimate Tensile Strength"
+          }
+        ],
+        "displayName": "ABS",
+        "libraryReference": {
+          "versionId": "00551e3bfba06025872715c0",
+          "elementId": "6bbab304a1f64e7d640a2d7d",
+          "documentId": "2718281828459eacfeeda11f",
+          "elementMicroversionId": "5c9010d279aaf0b434afbc4d"
+        }
+      }
+    },
+    {
+      "name": "Title 1",
+      "value": null
+    },
+    {
+      "name": "Title 2",
+      "value": null
+    },
+    {
+      "name": "Title 3",
+      "value": null
+    },
+    {
+      "name": "Not revision managed",
+      "value": false
+    },
+    {
+      "name": "Exclude from BOM",
+      "value": false
+    },
+    {
+      "name": "Unit of measure",
+      "value": "Each"
+    },
+    {
+      "name": "Mass",
+      "value": {
+        "formattedValue": "0.032 kg",
+        "computed": 0.03239549399667016,
+        "useOverride": false
+      }
+    },
+    {
+      "name": "Center of mass",
+      "value": null
+    },
+    {
+      "name": "Inertia",
+      "value": null
+    },
+    {
+      "name": "Tessellation quality",
+      "value": "0"
+    }
+  ],
+  "href": "https://cad.onshape.com/api/metadata/d/608d94c2743c178fe113b34b/m/82c99cca232958dead658a27/e/300f04a54f45195ada7cf31e/p/JfD?configuration=default"
+}
